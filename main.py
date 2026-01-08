@@ -1,4 +1,3 @@
-# main_dash_layout.py
 from decimal import Decimal
 from uuid import uuid4
 from agent import Agent
